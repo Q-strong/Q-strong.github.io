@@ -6,9 +6,9 @@ author_profile: true
 
 ## Operations research and data science
 
-1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, to appear.
-1. Liu, W., **Sun, Q.**, Tang, L. C., and Ye, Z.-S. (2025), “Robust data-driven design of a smart cardiac arrest response system,” *Production and Operations Management*, to appear.
-1. Xu, J., **Sun, Q.**, Yang, Y., Mo, H., and Dong, D. (2025), “Online planning of power flows for power systems against bushfire using spatial context,” provisionally accepted by *Automatica*.
+1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025+), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, to appear.
+1. Liu, W., **Sun, Q.**, Tang, L. C., and Ye, Z.-S. (2025+), “Robust data-driven design of a smart cardiac arrest response system,” *Production and Operations Management*, to appear.
+1. Xu, J., **Sun, Q.**, Yang, Y., Mo, H., and Dong, D. (2025+), “Online planning of power flows for power systems against bushfire using spatial context,” provisionally accepted by *Automatica*.
 1. **Sun, Q.**, Chen, P., Wang, X., and Ye, Z.-S. (2023), “Robust condition-based production and maintenance planning for degradation management,” *Production and Operations Management*, 32(12), 3951-3967.
 1. Xu, J., **Sun, Q.**, Mo, H., and Dong, D. (2022), “Online routing for smart electricity network under hybrid uncertainty,” *Automatica*, 145, 110538.
 1. **Sun, Q.**, Ye, Z.-S., and Hong, Y. (2020), “Statistical modeling of multivariate destructive degradation tests with blocking,” *Technometrics*, 62(4), 536-548.
@@ -16,9 +16,9 @@ author_profile: true
 
 ## Systems engineering and reliability engineering
 
-1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, to appear.
+1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025+), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, to appear.
 1. Liu, X., Lee, C. K. M., Huang, J., and **Sun, Q.** (2025), “Online robust degradation analysis with measurement outlier,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3509212.
-1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, to appear.
+1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025+), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, to appear.
 1. Wang, X., **Sun, Q.**, and Xu, J. (2024), “Simultaneous or sequential? Retail strategy of a durable product and an extended warranty,” *IEEE Transactions on Engineering Management*, 71, 8223-8239.
 1. Cui, D., **Sun, Q.**, and Xie, M. (2023), “Robust statistical modeling of heterogeneity for repairable systems using multivariate Gaussian convolution processes,” *IEEE Transactions on Reliability*, 72(4), 1493-1506.
 1. He, K., **Sun, Q.**, Xie, M., and Kuo, W. (2023), “Sequential Bayesian planning for accelerated degradation tests considering sensor degradation,” *IEEE Transactions on Reliability*, 72(3), 964-974.
