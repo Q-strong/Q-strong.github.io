@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me (left side of the photo)"
 author_profile: true
 redirect_from: 
   - /about/
