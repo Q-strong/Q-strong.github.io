@@ -16,9 +16,9 @@ I'm always looking for ambitious and self-motivated PhD students.
 * The University of Sydney
     * STAT5003 Computational Statistical Methods
         * Data processing: missing data imputation, imbalanced data, cross-validation
-        * Supervised learning: linear regression, logistic regression, linear discriminant analysis, kNN, tree-based methods, support vector machine
+        * Supervised learning: linear/nonlinear regression, logistic regression, linear discriminant analysis, kNN, tree-based methods, support vector machine
         * Unsupervised learning: PCA, t-SNE, k-means, hierarchical clustering
-        * Statistical methods: MLE, KDE, spline, bootstrap, regularization, model selection, MCMC, simulation
+        * Statistical methods: MLE, KDE, bootstrap, regularization, model selection, MCMC, simulation
 
     * STAT3023 Statistical Inference
         * Basics: MGF, transformation of random vectors, exponential families
