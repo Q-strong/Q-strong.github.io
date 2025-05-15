@@ -4,6 +4,8 @@ title: "Publications"
 author_profile: true
 ---
 
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=zYjnznMAAAAJ)
+
 ## Operations research and data science
 
 1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025+), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, to appear.
