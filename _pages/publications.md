@@ -6,6 +6,13 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=zYjnznMAAAAJ).
 
+## Selected working papers
+(Some titles are “anonymized” for double-blind review. Preprints are available upon request.)
+1. “Maintenance optimization for power systems,” under 2nd round of major revision in *MSOM*.
+1. “Operations of bike-sharing systems considering failures,” under 3rd round review in *MSOM*.
+1. “Multivariate degradation modeling with multiplicative measurement errors,” under major revision in *Journal of Quality Technology*.
+1. Xu, H., Jian, X., Zhao, X., Pang, W., Zhang, C., Zhang, Q., …, **Sun, Q.**, and Yu, T., “GraphOmni: A comprehensive and extendable benchmark framework for large language models on graph-theoretic tasks,” available at [arXiv](https://arxiv.org/abs/2504.12764).
+
 ## Operations research and data science
 
 1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025+), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, to appear.
