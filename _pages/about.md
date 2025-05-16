@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Lecturer (equivalent to a US Assistant Professor) in the School of Mathematics and Statistics at the University of Sydney. I received my PhD in Industrial and Systems Engineering from the National University of Singapore, and two bachelor's degrees in Industrial Engineering and Computer Science (dual degree) from Shanghai Jiao Tong University.
+Hello! I am a Lecturer (equivalent to a US Assistant Professor) in the School of Mathematics and Statistics at the University of Sydney. I received my PhD in Industrial and Systems Engineering from the National University of Singapore, and two bachelor's degrees in Industrial Engineering and in Computer Science (dual degree) from Shanghai Jiao Tong University.
 
 **I am seeking highly self-motivated PhD students and visiting students with strong backgrounds in mathematics and/or programming. If you're interested, please feel free to reach out with your CV and academic transcript.**
 
