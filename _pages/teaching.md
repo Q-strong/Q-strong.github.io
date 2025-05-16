@@ -6,7 +6,7 @@ author_profile: true
 
 ## PhD students
 
-I'm always looking for ambitious and self-motivated PhD students. 
+I am always seeking ambitious, self-motivated PhD students and am committed to supporting their growth and success.
 
 * Hao Xu (2025 Spring)
 * Yuxin Zhao (2024 Spring)
@@ -23,7 +23,7 @@ I'm always looking for ambitious and self-motivated PhD students.
     * STAT3023 Statistical Inference
         * Basics: MGF, transformation of random vectors, exponential families
         * Estimation theory: sufficiency, consistency, UMVUE, CR lower bound
-        * Hypothesis testing: UMP, generalized likelihood ratio test
+        * Hypothesis testing: UMP test, generalized likelihood ratio test
         * Statistical decision theory: Bayes estimator, (asymptotically) minimax estimator
 
     * DATA3888 Data Science Capstone 
