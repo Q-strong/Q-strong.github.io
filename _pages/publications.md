@@ -11,7 +11,6 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 1. “Maintenance optimization for power systems,” under the 2nd round of major revision in *MSOM*.
 1. “Operations of bike-sharing systems considering failures,” under the 3rd round review in *MSOM*.
 1. “Patient assignment considering physician handoffs,” under major revision in *Management Science*.
-1. “Multivariate degradation modeling with multiplicative measurement errors,” under major revision in *Journal of Quality Technology*.
 1. Xu, H., Jian, X., Zhao, X., Pang, W., Zhang, C., Zhang, Q., …, **Sun, Q.**, and Yu, T., “GraphOmni: A comprehensive and extendable benchmark framework for large language models on graph-theoretic tasks,” available at [arXiv](https://arxiv.org/abs/2504.12764).
 
 ## Operations research and data science
@@ -26,6 +25,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Systems engineering and reliability engineering
 
+1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025+), “On modeling of multiplicative measurement errors in degradation data analysis,” *Journal of Quality Technology*, to appear.
 1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025+), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, to appear.
 1. Liu, X., Lee, C. K. M., Huang, J., and **Sun, Q.** (2025), “Online robust degradation analysis with measurement outlier,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3509212.
 1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025+), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, to appear.
