@@ -25,7 +25,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Systems engineering and reliability engineering
 
-1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025+), “On modeling of multiplicative measurement errors in degradation data analysis,” *Journal of Quality Technology*, to appear.
+1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025+), “On modeling of multiplicative bias factor for multivariate degradation data,” *Journal of Quality Technology*, to appear.
 1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025+), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, to appear.
 1. Liu, X., Lee, C. K. M., Huang, J., and **Sun, Q.** (2025), “Online robust degradation analysis with measurement outlier,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3509212.
 1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025+), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, to appear.
