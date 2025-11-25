@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile-sun.png"
-  name             : "Qiuzhuang Sun (the left in the photo)"
+  name             : "Qiuzhuang Sun<br>(the left in the photo)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Singapore"
