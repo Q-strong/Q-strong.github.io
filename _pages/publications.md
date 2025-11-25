@@ -27,11 +27,11 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 ## Systems engineering and reliability engineering
 
 1. Hu, J. and **Sun, Q.** (2026), “Dynamic inspection and replacement optimization for systems subject to degradation and periodic shocks,” *Reliability Engineering & System Safety*, 266B, 111765.
-1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025+), “On modeling of multiplicative bias factor for multivariate degradation data,” *Journal of Quality Technology*, 57(4), 331–349.
-1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025+), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, 74(3), 4091–4105.
+1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025), “On modeling of multiplicative bias factor for multivariate degradation data,” *Journal of Quality Technology*, 57(4), 331–349.
+1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, 74(3), 4091–4105.
 1. Zhang, Z., Zi, Y., Zhang, M., Shi Z., and **Sun, Q.** (2025), “Deep unsupervised subdomain adaptation network for intelligent fault diagnosis: From simulated domain to physical domain,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3557716.
 1. Liu, X., Lee, C. K. M., Huang, J., and **Sun, Q.** (2025), “Online robust degradation analysis with measurement outlier,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3509212.
-1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025+), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, to appear.
+1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, 74(3), 3911–3925.
 1. Wang, X., **Sun, Q.**, and Xu, J. (2024), “Simultaneous or sequential? Retail strategy of a durable product and an extended warranty,” *IEEE Transactions on Engineering Management*, 71, 8223-8239.
 1. Cui, D., **Sun, Q.**, and Xie, M. (2023), “Robust statistical modeling of heterogeneity for repairable systems using multivariate Gaussian convolution processes,” *IEEE Transactions on Reliability*, 72(4), 1493-1506.
 1. He, K., **Sun, Q.**, Xie, M., and Kuo, W. (2023), “Sequential Bayesian planning for accelerated degradation tests considering sensor degradation,” *IEEE Transactions on Reliability*, 72(3), 964-974.
