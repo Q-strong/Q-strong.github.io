@@ -10,7 +10,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 (Some titles are “anonymized” for double-blind review. Preprints are available upon request.)
 1. “Operations of bike-sharing systems considering failures,” under review.
 1. “Patient assignment considering physician handoffs,” under major revision in *Management Science*.
-1. “Data-integrated replacement with operational statistics,” under major revision in *Production and Operations Management*.
+1. “Data-driven replacement with operational statistics,” under major revision in *Production and Operations Management*.
 1. Xu, H., Jian, X., Zhao, X., Pang, W., Zhang, C., Zhang, Q., …, **Sun, Q.**, and Yu, T., “GraphOmni: A comprehensive and extendable benchmark framework for large language models on graph-theoretic tasks,” available at [arXiv](https://arxiv.org/abs/2504.12764).
 
 ## Operations research and data science
