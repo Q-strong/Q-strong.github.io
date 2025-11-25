@@ -9,9 +9,12 @@ author_profile: true
 I am always seeking ambitious, self-motivated PhD students and am committed to supporting their growth and success.
 
 * Hao Xu (2025 Spring)
-* Yuxin Zhao (2024 Spring)
 
 ## Courses
+* Singapore Management University
+   * INTS708 Machine Learning for Urban Data
+   * INTS2255 Thinking with Data
+        * SMU Core-Curriculum course
 
 * The University of Sydney
     * STAT5003 Computational Statistical Methods
