@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile-sun.png"
-  name             : "Qiuzhuang Sun"
+  name             : "Qiuzhuang Sun (the left in the photo)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Sydney, Australia"
+  location         : "Singapore"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "qiuzhuang.sun@sydney.edu.au" 
+  email            : "qzsun@smu.edu.sg" 
 
   # Academic websites
   academia         : # URL
