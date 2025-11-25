@@ -8,14 +8,15 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Selected working papers
 (Some titles are “anonymized” for double-blind review. Preprints are available upon request.)
-1. “Maintenance optimization for power systems,” under the 2nd round of major revision in *MSOM*.
-1. “Operations of bike-sharing systems considering failures,” under the 3rd round review in *MSOM*.
+1. “Operations of bike-sharing systems considering failures,” under review.
 1. “Patient assignment considering physician handoffs,” under major revision in *Management Science*.
+1. “Data-integrated replacement with operational statistics,” under major revision in *Production and Operations Management*.
 1. Xu, H., Jian, X., Zhao, X., Pang, W., Zhang, C., Zhang, Q., …, **Sun, Q.**, and Yu, T., “GraphOmni: A comprehensive and extendable benchmark framework for large language models on graph-theoretic tasks,” available at [arXiv](https://arxiv.org/abs/2504.12764).
 
 ## Operations research and data science
 
-1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025+), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, to appear.
+1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, 73(5), 2396–2416.
+1. Yang, Y., **Sun, Q.**, Peng, J. C.-H., Tang, L. C., and Ye, Z.-S. (2025+), “Robust generator maintenance schedule for frequency-secure power systems,” *Manufacturing & Service Operations Management*, to appear.
 1. Liu, W., **Sun, Q.**, Tang, L. C., and Ye, Z.-S. (2025+), “Robust data-driven design of a smart cardiac arrest response system,” *Production and Operations Management*, to appear.
 1. Xu, J., **Sun, Q.**, Yang, Y., Mo, H., and Dong, D. (2025+), “Online planning of power flows for power systems against bushfire using spatial context,” provisionally accepted by *Automatica*.
 1. **Sun, Q.**, Chen, P., Wang, X., and Ye, Z.-S. (2023), “Robust condition-based production and maintenance planning for degradation management,” *Production and Operations Management*, 32(12), 3951-3967.
@@ -25,8 +26,10 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Systems engineering and reliability engineering
 
-1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025+), “On modeling of multiplicative bias factor for multivariate degradation data,” *Journal of Quality Technology*, to appear.
-1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025+), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, to appear.
+1. Hu, J. and **Sun, Q.** (2026), “Dynamic inspection and replacement optimization for systems subject to degradation and periodic shocks,” *Reliability Engineering & System Safety*, 266B, 111765.
+1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025+), “On modeling of multiplicative bias factor for multivariate degradation data,” *Journal of Quality Technology*, 57(4), 331–349.
+1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025+), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, 74(3), 4091–4105.
+1. Zhang, Z., Zi, Y., Zhang, M., Shi Z., and **Sun, Q.** (2025), “Deep unsupervised subdomain adaptation network for intelligent fault diagnosis: From simulated domain to physical domain,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3557716.
 1. Liu, X., Lee, C. K. M., Huang, J., and **Sun, Q.** (2025), “Online robust degradation analysis with measurement outlier,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3509212.
 1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025+), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, to appear.
 1. Wang, X., **Sun, Q.**, and Xu, J. (2024), “Simultaneous or sequential? Retail strategy of a durable product and an extended warranty,” *IEEE Transactions on Engineering Management*, 71, 8223-8239.
