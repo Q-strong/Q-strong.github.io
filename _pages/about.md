@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Assistant Professor in the College of Integrated Studies at Singapore Management University. I received my PhD in Industrial and Systems Engineering from the National University of Singapore, and two bachelor's degrees in Industrial Engineering and in Computer Science (dual degree) from Shanghai Jiao Tong University.
+Hello! I am an Assistant Professor in the College of Integrative Studies at Singapore Management University. I received my PhD in Industrial and Systems Engineering from the National University of Singapore, and two bachelor's degrees in Industrial Engineering and in Computer Science (dual degree) from Shanghai Jiao Tong University.
 
 **I am seeking highly self-motivated PhD students and visiting students with strong backgrounds in mathematics and/or programming. If you're interested, please feel free to reach out with your CV and academic transcript.**
 
