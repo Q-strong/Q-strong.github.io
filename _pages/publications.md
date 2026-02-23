@@ -14,11 +14,11 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Operations research and data science
 
-1. Yang, Y., **Sun, Q.**, Peng, J. C.-H., Tang, L. C., and Ye, Z.-S. (2026+), “Robust generator maintenance schedule for frequency-secure power systems,” *Manufacturing & Service Operations Management*, to appear.
+1. Yang, Y., **Sun, Q.**, Peng, J. C.-H., Tang, L. C., and Ye, Z.-S. (2026), “Robust generator maintenance schedule for frequency-secure power systems,” *Manufacturing & Service Operations Management*, to appear.
 1. Liu, W., **Sun, Q.**, Tang, L. C., and Ye, Z.-S. (2026), “Robust data-driven design of a smart cardiac arrest response system,” *Production and Operations Management*, 35(1), 242–262.
-1. Xu, H., Jian, X., Zhao, X., Pang, W., Zhang, C., Zhang, Q., ..., **Sun, Q.**, and Yu, T. (2026), “GraphOmni: A comprehensive and extendable benchmark framework for large language models on graph-theoretic tasks,” *International Conference on Learning Representations (ICLR)*. 
+1. Xu, H., Jian, X., Zhao, X., Pang, W., Zhang, C., Zhang, Q., ..., **Sun, Q.**, and Yu, T. (2026), “GraphOmni: A comprehensive and extendable benchmark framework for large language models on graph-theoretic tasks,” *International Conference on Learning Representations (ICLR)*.
+1. Xu, J., **Sun, Q.**, Yang, Y., Mo, H., and Dong, D. (2026), “Online planning of power flows for power systems against bushfire using spatial context,” *Automatica*, to appear.
 1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, 73(5), 2396–2416.
-1. Xu, J., **Sun, Q.**, Yang, Y., Mo, H., and Dong, D. (2025+), “Online planning of power flows for power systems against bushfire using spatial context,” provisionally accepted by *Automatica*.
 1. **Sun, Q.**, Chen, P., Wang, X., and Ye, Z.-S. (2023), “Robust condition-based production and maintenance planning for degradation management,” *Production and Operations Management*, 32(12), 3951-3967.
 1. Xu, J., **Sun, Q.**, Mo, H., and Dong, D. (2022), “Online routing for smart electricity network under hybrid uncertainty,” *Automatica*, 145, 110538.
 1. **Sun, Q.**, Ye, Z.-S., and Hong, Y. (2020), “Statistical modeling of multivariate destructive degradation tests with blocking,” *Technometrics*, 62(4), 536-548.
