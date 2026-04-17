@@ -8,7 +8,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Selected working papers
 (Some titles are “anonymized” for double-blind review. Preprints are available upon request.)
-1. “FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios，” available on [arXiv](https://arxiv.org/pdf/2604.07413).
+1. “FORGE: Fine-grained multimodal evaluation for manufacturing scenarios，” available on [arXiv](https://arxiv.org/pdf/2604.07413).
 1. “Operations of bike-sharing systems considering failures,” under major revision in *Production and Operations Management*.
 1. “Patient assignment considering physician handoffs,” under major revision in *Management Science*.
 1. “Data-driven replacement with operational statistics,” under major revision in *Production and Operations Management*.
