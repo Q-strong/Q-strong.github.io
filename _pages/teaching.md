@@ -4,13 +4,13 @@ title: "Teaching"
 author_profile: true
 ---
 
+I am always seeking ambitious, self-motivated collaborators and PhD students and am committed to supporting their growth and success.
+
 ## Postdocs
 
 * Tianming Huo (NRF PA Fellow)
 
 ## PhD students
-
-I am always seeking ambitious, self-motivated PhD students and am committed to supporting their growth and success.
 
 * Hao Xu (2025 Spring)
 * Jingyi Peng (2026 Fall)
