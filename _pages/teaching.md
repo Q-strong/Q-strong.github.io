@@ -4,17 +4,23 @@ title: "Teaching"
 author_profile: true
 ---
 
+## Postdocs
+
+* Tianming Huo (NRF PA Fellow)
+
 ## PhD students
 
 I am always seeking ambitious, self-motivated PhD students and am committed to supporting their growth and success.
 
 * Hao Xu (2025 Spring)
+* Jingyi Peng (2026 Fall)
 
 ## Courses
 * Singapore Management University
    * INTS708 Machine Learning for Urban Data
    * INTS2255 Thinking with Data
         * SMU Core-Curriculum course
+   * INTS202 Creating Integrative Solutions through Projects       
 
 * The University of Sydney
     * STAT5003 Computational Statistical Methods
