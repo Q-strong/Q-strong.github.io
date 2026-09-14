@@ -8,17 +8,17 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Selected working papers
 (Some titles are “anonymized” for double-blind review. Preprints are available upon request.)
-1. “FORGE: Fine-grained multimodal evaluation for manufacturing scenarios,” available on [arXiv](https://arxiv.org/pdf/2604.07413).
 1. “Operations of bike-sharing systems considering failures,” under major revision in *Production and Operations Management*.
 1. “Patient assignment considering physician handoffs,” under major revision in *Management Science*.
 1. “Data-driven replacement with operational statistics,” under major revision in *Production and Operations Management*.
 
 ## Operations research and data science
 
-1. Yang, Y., **Sun, Q.**, Peng, J. C.-H., Tang, L. C., and Ye, Z.-S. (2026), “Robust generator maintenance schedule for frequency-secure power systems,” *Manufacturing & Service Operations Management*, to appear.
+1. Yang, Y., **Sun, Q.**, Peng, J. C.-H., Tang, L. C., and Ye, Z.-S. (2026), “Robust generator maintenance schedule for frequency-secure power systems,” *Manufacturing & Service Operations Management*, 28(4), 1172–1191.
 1. Liu, W., **Sun, Q.**, Tang, L. C., and Ye, Z.-S. (2026), “Robust data-driven design of a smart cardiac arrest response system,” *Production and Operations Management*, 35(1), 242–262.
 1. Xu, H., Jian, X., Zhao, X., Pang, W., Zhang, C., Zhang, Q., ..., **Sun, Q.**, and Yu, T. (2026), “GraphOmni: A comprehensive and extendable benchmark framework for large language models on graph-theoretic tasks,” *International Conference on Learning Representations (ICLR)*.
-1. Xu, J., **Sun, Q.**, Yang, Y., Mo, H., and Dong, D. (2026), “Online planning of power flows for power systems against bushfire using spatial context,” *Automatica*, to appear.
+1. Xu, J., **Sun, Q.**, Yang, Y., Mo, H., and Dong, D. (2026), “Online planning of power flows for power systems against bushfire using spatial context,” *Automatica*, 189, 112985.
+1. Jian, X., Xu, H., Pang, W., Zhao, X., Tao, C., Zhang, Q., ..., **Sun, Q.**, and Tao, D. (2026), “FORGE: Fine-grained multimodal evaluation for manufacturing scenarios,” *Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
 1. **Sun, Q.**, Hu, J., and Ye, Z.-S. (2025), “Optimal abort policy for mission-critical systems under imperfect condition monitoring,” *Operations Research*, 73(5), 2396–2416.
 1. **Sun, Q.**, Chen, P., Wang, X., and Ye, Z.-S. (2023), “Robust condition-based production and maintenance planning for degradation management,” *Production and Operations Management*, 32(12), 3951-3967.
 1. Xu, J., **Sun, Q.**, Mo, H., and Dong, D. (2022), “Online routing for smart electricity network under hybrid uncertainty,” *Automatica*, 145, 110538.
@@ -27,6 +27,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Systems engineering and reliability engineering
 
+1. Ding, Y., Lee, C. K. M., Liu, X., and **Sun, Q.** (2026), “Semantic-guided label-free multimodal fault diagnosis bridging time-series and textual data with language models,” *Advanced Engineering Informatics*, to appear.
 1. Hu, J. and **Sun, Q.** (2026), “Dynamic inspection and replacement optimization for systems subject to degradation and periodic shocks,” *Reliability Engineering & System Safety*, 266B, 111765.
 1. Yan, B., **Sun, Q.**, and Ye, Z.-S. (2025), “On modeling of multiplicative bias factor for multivariate degradation data,” *Journal of Quality Technology*, 57(4), 331–349.
 1. Yan, B., **Sun, Q.**, Shen, L., and Ma, X. (2025), “A physical-statistical framework on complex mechanical system fault isolation,” *IEEE Transactions on Reliability*, 74(3), 4091–4105.
