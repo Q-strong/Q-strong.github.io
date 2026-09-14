@@ -20,7 +20,8 @@ I am always seeking ambitious, self-motivated collaborators and PhD students and
    * INTS708 Machine Learning for Urban Data
    * INTS2255 Thinking with Data
         * SMU Core-Curriculum course
-   * INTS202 Creating Integrative Solutions through Projects       
+   * INTS202 Creating Integrative Solutions through Projects
+        * 2026 partner: Families for Life, Ministry of Social and Family Development of Singapore
 
 * The University of Sydney
     * STAT5003 Computational Statistical Methods
