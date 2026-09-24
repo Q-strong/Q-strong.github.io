@@ -24,7 +24,7 @@ Selected Awards
 ======
 * **Research**
     * Lee Kong Chian Fellowship (2026)
-    * 2026 Pierskalla Award Finalists (winner to be announced); sponsored by the INFORMS Health Applications Society that honors the best paper advancing health services delivery through operations research.
+    * 2026 Pierskalla Award Finalists; sponsored by the INFORMS Health Applications Society that honors the best paper advancing health services delivery through operations research.
     * Best Paper Award of the 12th Asia-Pacific International Conference on Advanced Reliability and Maintenance Modeling.
     * Finalist in the Best Paper Competition at the 2025 INFORMS Conference on Quality, Statistics, and Reliability.
     * Best Paper Award of the 2025 International Conference on Reliability, Maintainability and Safety.
