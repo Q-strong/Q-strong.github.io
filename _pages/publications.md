@@ -35,7 +35,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 1. Zhang, Z., Zi, Y., Zhang, M., Shi Z., and **Sun, Q.** (2025), “Deep unsupervised subdomain adaptation network for intelligent fault diagnosis: From simulated domain to physical domain,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3557716.
 1. Liu, X., Lee, C. K. M., Huang, J., and **Sun, Q.** (2025), “Online robust degradation analysis with measurement outlier,” *IEEE Transactions on Instrumentation and Measurement*, 74, 3509212.
 1. Yan, B., Ma, X., **Sun, Q.**, and Shen, L. (2025), “Physics-enhanced NMF toward anomaly detection in rotating mechanical systems,” *IEEE Transactions on Reliability*, 74(3), 3911–3925.
-1. Wang, X., **Sun, Q.**, and Xu, J. (2024), “Simultaneous or sequential? Retail strategy of a durable product and an extended warranty,” *IEEE Transactions on Engineering Management*, 71, 8223-8239.
+1. Wang, X.-L., **Sun, Q.**, and Xu, J. (2024), “Simultaneous or sequential? Retail strategy of a durable product and an extended warranty,” *IEEE Transactions on Engineering Management*, 71, 8223-8239.
 1. Cui, D., **Sun, Q.**, and Xie, M. (2023), “Robust statistical modeling of heterogeneity for repairable systems using multivariate Gaussian convolution processes,” *IEEE Transactions on Reliability*, 72(4), 1493-1506.
 1. He, K., **Sun, Q.**, Xie, M., and Kuo, W. (2023), “Sequential Bayesian planning for accelerated degradation tests considering sensor degradation,” *IEEE Transactions on Reliability*, 72(3), 964-974.
 1. Hu, J., **Sun, Q.**, and Ye, Z.-S. (2022), “Replacement and repair optimization for production systems under random production waits,” *IEEE Transactions on Reliability*, 71(4), 1488-1500.
