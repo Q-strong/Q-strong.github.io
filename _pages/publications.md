@@ -11,6 +11,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 1. “Operations of bike-sharing systems considering failures,” under major revision in *Production and Operations Management*.
 1. “Patient assignment considering physician handoffs,” under major revision in *Management Science*.
 1. “Data-driven replacement with operational statistics,” under major revision in *Production and Operations Management*.
+1. “Large-scale combinatorial optimization solvers via conditional diffusion models on hypergraphs,” under major revision in *INFORMS Journal on Computing*.
 
 ## Operations research and data science
 
