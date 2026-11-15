@@ -9,6 +9,8 @@ redirect_from:
 
 Hello! I am an Assistant Professor in the College of Integrative Studies and Urban Fellow in the Urban Institute at Singapore Management University (SMU). Prior to joining SMU, I was a Lecturer (Assistant Professor) in the School of Mathematics and Statistics at the University of Sydney. I received my PhD in Industrial and Systems Engineering from the National University of Singapore, and two bachelor's degrees in Industrial Engineering and in Computer Science (dual degree) from Shanghai Jiao Tong University. 
 
+**RA and Postdoc openings in 2027 and 2028: I am recuiting Research Assistants (salaries determined by stages, i.e., before PhD, during PhD, after PhD thesis submission) and postdoc Research Fellows working in data-driven operations management and OR4LLM. If you're interested, please feel free to reach out with your CV.**
+
 **I am seeking highly self-motivated PhD students and visiting students with strong backgrounds in mathematics and/or programming. If you're interested, please feel free to reach out with your CV and academic transcript.**
 
 Research Interests
